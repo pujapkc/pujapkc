@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Portfolio Project**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 📫 Reach me at **choursiyapuja21@gmail.com**
 
